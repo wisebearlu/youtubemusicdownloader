@@ -10,7 +10,7 @@ The easiest way to download videos, music, playlist, MP3/MP4 from YouTube & 3000
 Free tool.
 
 # Site:
-[official youtube music downloader website](ytmusicdownloader.us/)
+[official youtube music downloader website](https://ytmusicdownloader.us/)
 
 # Installation:
-[download and install](http://download5.ytmusicdownloader.us/php/download.php?src=online5)
+[download and install](https://download5.ytmusicdownloader.us/php/download.php?src=online5)
